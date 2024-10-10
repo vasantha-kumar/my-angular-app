@@ -7,7 +7,7 @@ Sample Datalayer app build using Angular framework to show our priniple of "Buil
 Do not worry about infrastructure and maintenance tasks.
 
 
-![My angular App](https://df1zaccjidinu.cloudfront.net/ea2d2c05/my-angular-app.jpg)
+![My angular App](https://df1zaccjidinu.cloudfront.net/common/my-angular-app.jpg)
 
 Sample app is built on principle of SPA ( Single Page App).
 Mainly consists of single page with two sections.a section to display emloyees in databular layout.
@@ -15,7 +15,7 @@ Another setion to display employee information.
 
 ## Demo App
 
-Watch live app at <a href="https://my-angular-app.datalayer.in/" target="_blank">demo site</a>
+Watch live app at <a href="https://prod.d21fs628hoh0x3.amplifyapp.com/" target="_blank">demo site</a>
 
 Click on any employee row 'info' link.
 Displays employee info at the lower section of page.
